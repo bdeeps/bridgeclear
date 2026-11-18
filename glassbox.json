@@ -1,0 +1,110 @@
+{
+  "slug": "bridgeclear",
+  "box": 228,
+  "date": "2026-11-25",
+  "title": "BridgeClear",
+  "question": "How does a bridge hold weight?",
+  "hook": "A bridge is just a way of handing weight sideways to the ground. Drag a load across, bend a beam, break an arch, and see why Tacoma Narrows fell for a surprising reason.",
+  "thumbText": "HOW BRIDGES HOLD",
+  "field": "machines",
+  "minutes": 15,
+  "tags": [
+    "bridge",
+    "engineering",
+    "structures",
+    "physics",
+    "truss",
+    "arch"
+  ],
+  "explainer": [
+    {
+      "title": "Two forces do all the work",
+      "text": "Every bridge turns a downward load into compression (squeezing) and tension (stretching). Drag a load across a beam and watch the top turn blue and the bottom red."
+    },
+    {
+      "title": "Triangles do not bend",
+      "text": "A truss keeps only the parts that work. Its triangles cannot change shape without a member changing length, so every stick is simply squeezed or stretched."
+    },
+    {
+      "title": "An arch turns weight into squeeze",
+      "text": "A curve lets stone carry a load in pure compression. The line of thrust runs through the ring, and the abutments must push back against the sideways thrust."
+    },
+    {
+      "title": "Cables hang, towers stand",
+      "text": "A suspension bridge hangs its deck from cables in tension, with towers in compression and huge anchorages at the ends. Cable-stayed bridges run straight stays from tower to deck."
+    },
+    {
+      "title": "Tacoma was flutter, not simple resonance",
+      "text": "In 1940 wind and a twisting deck fed each other until the bridge tore apart. That is aeroelastic flutter. Ordinary resonance stays bounded."
+    },
+    {
+      "title": "Footsteps, fatigue and floods",
+      "text": "The Millennium Bridge swayed when walkers fell into step with it. Cracks grow a little with each load cycle, and floodwater can dig out the ground under a pier."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Compression",
+      "def": "A squeezing force that pushes the particles of a material together."
+    },
+    {
+      "term": "Tension",
+      "def": "A stretching force that pulls the particles of a material apart."
+    },
+    {
+      "term": "Load path",
+      "def": "The route a load takes through a structure to the ground."
+    },
+    {
+      "term": "Truss",
+      "def": "A rigid frame of straight members joined at their ends, built from triangles."
+    },
+    {
+      "term": "Line of thrust",
+      "def": "The path the squeezing force takes through the stones of an arch."
+    },
+    {
+      "term": "Abutment",
+      "def": "The solid support at each end of an arch or bridge that resists its sideways push."
+    },
+    {
+      "term": "Catenary",
+      "def": "The curve of a flexible cable hanging under its own weight."
+    },
+    {
+      "term": "Aeroelastic flutter",
+      "def": "A self-feeding vibration where a structure's motion changes the wind forces that act on it."
+    },
+    {
+      "term": "Lateral lock-in",
+      "def": "When a crowd falls into step with a swaying deck and pushes it harder."
+    },
+    {
+      "term": "Fatigue",
+      "def": "Damage from repeated loading, where a crack grows a little each cycle."
+    },
+    {
+      "term": "Scour",
+      "def": "Erosion of the riverbed around a bridge foundation by moving water."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "bridgeclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

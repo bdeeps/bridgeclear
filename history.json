@@ -1,0 +1,938 @@
+{
+  "title": "The history of the bridge",
+  "tagline": "From grass ropes and Roman stone to 2,023-metre steel spans, and the failures that taught engineers what the numbers missed.",
+  "intro": "People have crossed gaps with rope, timber and stone for thousands of years. The question was always the same: how can a thin deck carry heavy loads over empty air? Arches turned weight into squeezing, trusses and cables turned it into pushing and pulling, and each new material let spans grow. Some of the biggest lessons came from collapses, and this history says plainly where sources still disagree.",
+  "eras": [
+    {
+      "id": "arch",
+      "name": "Stone, timber and rope",
+      "from": 40,
+      "to": 2013,
+      "color": "#c49bff",
+      "summary": "Arch builders in Rome, China, France and Japan learn to push loads sideways into the ground. Palladio publishes bridge designs. In the Andes, a grass rope bridge is still rebuilt by hand every year."
+    },
+    {
+      "id": "iron",
+      "name": "Iron, steel and the truss",
+      "from": 1779,
+      "to": 1890,
+      "color": "#ffb547",
+      "summary": "Cast iron, wrought-iron chains and then steel give builders new shapes. Trusses are patented, cables are spun from wire, and cantilevers reach across wide estuaries."
+    },
+    {
+      "id": "span",
+      "name": "Record spans and new materials",
+      "from": 1928,
+      "to": 2022,
+      "color": "#8ef0ff",
+      "summary": "Prestressed concrete, giant suspension bridges and tall cable-stayed viaducts push the limits of length and height. The longest main span grows past two kilometres."
+    },
+    {
+      "id": "fail",
+      "name": "Lessons from failure",
+      "from": 1940,
+      "to": 2018,
+      "color": "#ff7a59",
+      "summary": "Wind, a hidden crack, a swaying crowd and corroded steel each show that a bridge is more than static loads. Each failure changes how bridges are tested and inspected."
+    }
+  ],
+  "events": [
+    {
+      "year": 40,
+      "date": "c. 40–60 CE",
+      "era": "arch",
+      "art": "building",
+      "title": "The Pont du Gard carries water on stacked arches",
+      "who": "Roman engineers",
+      "where": "near Nîmes, France",
+      "country": "France",
+      "text": "Roman builders raised three tiers of arches to carry an aqueduct over the Gardon river. The structure is 48.8 m high and was built largely without mortar or clamps. Some blocks weigh up to 6 tons. Newer excavations point to the middle of the 1st century CE rather than the older date of about 19 BCE.",
+      "why": "Stone is strong when squeezed, and an arch turns the weight of the bridge into squeezing.",
+      "box": "arch",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 605,
+      "date": "c. 595–605 CE",
+      "era": "arch",
+      "art": "building",
+      "key": true,
+      "title": "Li Chun's Zhaozhou Bridge",
+      "who": "Li Chun",
+      "where": "Zhaoxian, Hebei, China",
+      "country": "China",
+      "text": "In the Sui dynasty the master mason Li Chun is credited with building a single stone arch with a 37 m span. It has 28 curved limestone slabs held by iron dovetails. Small arches at each end let floodwater pass and lighten the bridge. It still stands.",
+      "why": "It is described as the world's oldest open-spandrel arch bridge, and it is China's oldest standing bridge.",
+      "box": "arch",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1234,
+      "date": "from 1234",
+      "era": "arch",
+      "art": "block",
+      "title": "Avignon's bridge gets stone arches",
+      "who": "Builders of the Pont Saint-Bénézet",
+      "where": "Avignon, France",
+      "country": "France",
+      "text": "A wooden bridge over the Rhône was built between 1177 and 1185 and destroyed in 1226. Rebuilding in stone began in 1234, with 22 arches. The arches kept collapsing when the Rhône flooded, and the bridge was abandoned in the mid-17th century. Four arches survive.",
+      "why": "It shows how a river's force can matter as much as the weight on the deck.",
+      "box": "arch",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1570,
+      "date": "1570",
+      "era": "arch",
+      "art": "scroll",
+      "title": "Palladio's book covers bridges in stone and wood",
+      "who": "Andrea Palladio",
+      "where": "Venice, Italy",
+      "country": "Italy",
+      "text": "Andrea Palladio's Four Books of Architecture was first published in Venice in 1570. Its third book covers city planning, including bridges of stone and of wood.",
+      "why": "Printed designs let builders copy and adapt bridge ideas, including braced timber frames.",
+      "box": "truss",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1673,
+      "date": "1673",
+      "era": "arch",
+      "art": "wave",
+      "title": "Kintai Bridge: five wooden arches",
+      "who": "Kikkawa Hiroyoshi",
+      "where": "Iwakuni, Japan",
+      "country": "Japan",
+      "text": "Kikkawa Hiroyoshi, the third lord of Iwakuni, had a bridge built with five wooden arches on stone piers. Each of the three middle spans is 35.1 m. A flood from Typhoon Kijia washed it away in 1950, and it was rebuilt in 1953 in much the same form.",
+      "why": "Even in timber, the arch shape moves load sideways into the stone piers.",
+      "box": "arch",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1779,
+      "date": "1779 (opened 1781)",
+      "era": "iron",
+      "art": "flame",
+      "key": true,
+      "title": "The Iron Bridge crosses the Severn",
+      "who": "Thomas Farnolls Pritchard and Abraham Darby III",
+      "where": "Coalbrookdale, England",
+      "country": "England",
+      "text": "Pritchard designed an iron arch and Abraham Darby III cast and built it between 1777 and 1779. The main span is 30.6 m. It used almost 1,700 cast pieces and about 385 tonnes of iron. It opened to traffic on 1 January 1781.",
+      "why": "It is described as the first major bridge made of cast iron, and it showed that iron could replace stone.",
+      "box": "arch",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1826,
+      "date": "30 January 1826",
+      "era": "iron",
+      "art": "coil",
+      "title": "Telford's Menai Bridge",
+      "who": "Thomas Telford",
+      "where": "Wales, UK",
+      "country": "Wales",
+      "text": "Telford's bridge opened with a main span of 176 m, the longest span of its time. Wrought-iron chains held up the deck, and they were replaced with steel in 1938–40.",
+      "why": "It was an early big suspension bridge for road traffic, where iron chains were in tension and the towers in compression.",
+      "box": "cables",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1840,
+      "date": "1840",
+      "era": "iron",
+      "art": "wireframe",
+      "title": "The Howe truss is patented",
+      "who": "William Howe",
+      "where": "Massachusetts, USA",
+      "country": "USA",
+      "text": "William Howe, a Massachusetts millwright, patented a truss in 1840. Its diagonals slope up towards the centre.",
+      "why": "A truss splits the load into pushes and pulls along straight members.",
+      "box": "truss",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1844,
+      "date": "1844",
+      "era": "iron",
+      "art": "wrench",
+      "title": "The Pratt truss",
+      "who": "Thomas and Caleb Pratt",
+      "where": "USA",
+      "country": "USA",
+      "text": "Thomas and Caleb Pratt invented a truss in 1844. Its diagonals lean the opposite way from the Howe truss.",
+      "why": "Different truss layouts put some members in tension and others in compression.",
+      "box": "truss",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1848,
+      "date": "1848",
+      "era": "iron",
+      "art": "compass",
+      "title": "The Warren truss is patented",
+      "who": "James Warren and Willoughby Theobald Monzani",
+      "where": "England",
+      "country": "England",
+      "text": "James Warren and Willoughby Theobald Monzani patented a truss built from equilateral triangles in 1848. Wikipedia marks the Monzani co-credit as needing a citation.",
+      "why": "A triangle cannot change shape without changing the length of a side, so triangles keep the frame rigid.",
+      "box": "truss",
+      "sources": [
+        12,
+        10
+      ]
+    },
+    {
+      "year": 1869,
+      "date": "July 1869",
+      "era": "iron",
+      "art": "person",
+      "title": "John Roebling dies before work starts",
+      "who": "John A. Roebling",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "John Roebling designed the Brooklyn Bridge. In June 1869 a ferry crushed his foot while he was surveying. The wound led to tetanus, and he died the following month. His son Washington took over as chief engineer.",
+      "why": "The bridge was finished by a family of engineers, not one person.",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1872,
+      "date": "January–May 1872",
+      "era": "iron",
+      "art": "lungs",
+      "title": "Caisson workers fall ill",
+      "who": "Dr Andrew Smith",
+      "where": "Brooklyn, New York, USA",
+      "country": "USA",
+      "text": "Workers dug the tower foundations inside pressurised chambers called caissons. The project doctor treated 110 cases of caisson disease between 25 January and 31 May 1872, and three workers died. Washington Roebling was left paralysed by the disease.",
+      "why": "A tower must stand on solid ground, and reaching it cost lives.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1874,
+      "date": "4 July 1874",
+      "era": "iron",
+      "art": "gear",
+      "title": "Eads Bridge puts steel to work",
+      "who": "James B. Eads",
+      "where": "St. Louis, USA",
+      "country": "USA",
+      "text": "Eads Bridge crosses the Mississippi with arches whose longest span is 158 m. It pioneered large-scale use of steel as a structural material. Its piers were sunk almost 30 m below the river using pneumatic caissons. Sources count 14 or 15 caisson workers who died.",
+      "why": "Steel is stronger than iron, and it let arches grow bigger.",
+      "box": "arch",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1883,
+      "date": "24 May 1883",
+      "era": "iron",
+      "art": "string",
+      "key": true,
+      "title": "The Brooklyn Bridge opens",
+      "who": "John, Washington and Emily Warren Roebling",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "The Brooklyn Bridge had a main span of 486 m (1,595.5 ft) and was the longest suspension bridge in the world, about 20% longer than any before it. Each main cable holds 5,282 galvanised steel wires. A supplier swapped in poorer wire, so engineers later re-checked the cables' strength. Emily Warren Roebling relayed her husband's instructions to the site and spent about 11 years helping supervise the work.",
+      "why": "It showed that steel wire cables could carry a very long span, and Emily Roebling was given the honour of the first crossing.",
+      "box": "cables",
+      "sources": [
+        17,
+        13,
+        18,
+        14
+      ]
+    },
+    {
+      "year": 1887,
+      "date": "1887",
+      "era": "iron",
+      "art": "person",
+      "title": "The human cantilever",
+      "who": "Kaichi Watanabe, John Fowler and Benjamin Baker",
+      "where": "Forth Bridge project, UK",
+      "country": "UK",
+      "text": "To show how a cantilever works, the Japanese engineer Kaichi Watanabe sat on a chair between Fowler and Baker. The set-up was used to explain which parts of a cantilever are pulled and which are pushed.",
+      "why": "It is a famous demonstration of tension and compression in a bridge.",
+      "box": "forces",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "4 March 1890",
+      "era": "iron",
+      "art": "skeleton",
+      "key": true,
+      "title": "The Forth Bridge opens",
+      "who": "John Fowler and Benjamin Baker",
+      "where": "Scotland, UK",
+      "country": "Scotland",
+      "text": "The Prince of Wales opened the Forth Bridge on 4 March 1890. Its two main cantilever spans are about 521 m each, and the bridge stands about 110 m above high water. It held the record for the longest single cantilever span for 28 years, until the Quebec Bridge in Canada. It became a UNESCO World Heritage Site in 2015.",
+      "why": "It made the forces in a truss visible and built a stiff bridge on a huge scale.",
+      "box": "truss",
+      "sources": [
+        20,
+        21,
+        22,
+        19
+      ]
+    },
+    {
+      "year": 1928,
+      "date": "1928",
+      "era": "span",
+      "art": "spring2",
+      "title": "Freyssinet patents prestressed concrete",
+      "who": "Eugène Freyssinet",
+      "where": "France",
+      "country": "France",
+      "text": "Prestressed concrete was patented by Eugène Freyssinet in 1928. Steel in the concrete is stretched so that the concrete stays squeezed even when a load bends it.",
+      "why": "Concrete is weak in tension, so squeezing it first lets it carry loads that would otherwise crack it.",
+      "box": "forces",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1937,
+      "date": "27 May 1937 (pedestrians)",
+      "era": "span",
+      "art": "road",
+      "key": true,
+      "title": "The Golden Gate Bridge opens",
+      "who": "Joseph Strauss, Charles Ellis, Leon Moisseiff, Irving Morrow",
+      "where": "San Francisco, USA",
+      "country": "USA",
+      "text": "The Golden Gate Bridge opened to pedestrians on 27 May 1937 and to vehicles the next day. Its 1,280 m main span was the longest in the world until 1964. Joseph Strauss was chief engineer. Charles Ellis was the design engineer, and the bridge district now says he deserves significant credit.",
+      "why": "A huge cable and two tall towers held up a deck over a strait with fierce currents and wind.",
+      "box": "cables",
+      "sources": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "7 November 1940",
+      "era": "fail",
+      "art": "sinewave",
+      "key": true,
+      "title": "Galloping Gertie twists apart",
+      "who": "Leon Moisseiff and Frederick Farquharson",
+      "where": "Tacoma, Washington, USA",
+      "country": "USA",
+      "text": "The Tacoma Narrows Bridge opened on 1 July 1940 and collapsed on 7 November 1940 in a wind of about 40 mph (64 km/h). Its main span was 853 m. The deck was shallow and narrow, and wind made it twist. Later analysis calls this aeroelastic flutter, not simple resonance. Farquharson's wind-tunnel tests had found the girders catching the wind.",
+      "why": "After this, engineers changed how they designed suspension bridges and tested shapes in wind tunnels.",
+      "box": "failure",
+      "sources": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "21 November 1964",
+      "era": "span",
+      "art": "road",
+      "title": "Verrazzano–Narrows passes the Golden Gate",
+      "who": "Verrazzano–Narrows Bridge",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "The Verrazzano–Narrows Bridge opened with a main span of 4,260 ft (1,298 m). It took the record for the longest suspension span from the Golden Gate Bridge.",
+      "why": "The record grew in steps as cables and towers got stronger.",
+      "box": "cables",
+      "sources": [
+        33,
+        25
+      ]
+    },
+    {
+      "year": 1967,
+      "date": "15 December 1967",
+      "era": "fail",
+      "art": "bolt",
+      "key": true,
+      "title": "The Silver Bridge collapses",
+      "who": "Silver Bridge",
+      "where": "Point Pleasant, West Virginia, USA",
+      "country": "USA",
+      "text": "The Silver Bridge fell into the Ohio River in rush-hour traffic and killed 46 people. The NTSB traced the failure to a brittle fracture in eyebar 330, where a small crack had grown by stress corrosion and corrosion fatigue. Each chain link had only two eyebars, so one break brought down the whole chain.",
+      "why": "The crack sat inside the eye of a joint where inspectors of the time could not find it.",
+      "box": "failure",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1968; published 1971",
+      "era": "fail",
+      "art": "scales",
+      "key": true,
+      "title": "National Bridge Inspection Standards",
+      "who": "US Congress and the Federal Highway Administration",
+      "where": "USA",
+      "country": "USA",
+      "text": "The Federal-Aid Highway Act of 1968 led to national standards for inspecting bridges. The Federal Highway Administration adopted the first National Bridge Inspection Standards on 27 April 1971. They require public bridges with spans over 20 feet to be inspected every two years, or more often if they are higher risk.",
+      "why": "It was the nation's first coordinated bridge inspection program.",
+      "box": "failure",
+      "sources": [
+        36,
+        35
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "17 January 1995",
+      "era": "span",
+      "art": "soundwave",
+      "title": "An earthquake stretches Akashi Kaikyo",
+      "who": "Honshu-Shikoku bridge builders",
+      "where": "Kobe, Japan",
+      "country": "Japan",
+      "text": "The Kobe earthquake of 17 January 1995 struck during construction. Ground movement shifted an anchorage and a tower slightly, so the central span was made a little longer than planned. Work resumed about a month later.",
+      "why": "A bridge in a quake zone must allow for the ground moving under its towers.",
+      "box": "cables",
+      "sources": [
+        37,
+        38
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "April 1998 (5 April by one account)",
+      "era": "span",
+      "art": "mountain",
+      "key": true,
+      "title": "Akashi Kaikyo Bridge takes the record",
+      "who": "Honshu–Shikoku Bridge team",
+      "where": "Kobe to Awaji, Japan",
+      "country": "Japan",
+      "text": "The Akashi Kaikyo Bridge was completed in April 1998 after ten years of work. Its main span is 1,991 m and its total length is 3,911 m. It was the longest suspension span in the world until 2022.",
+      "why": "Strong wire, deep foundations and wind-tunnel testing put a record span across a strait with typhoons and quakes.",
+      "box": "cables",
+      "sources": [
+        38,
+        37
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "10 June 2000",
+      "era": "fail",
+      "art": "tuningfork",
+      "key": true,
+      "title": "The Millennium Bridge wobbles",
+      "who": "Arup",
+      "where": "London, UK",
+      "country": "England",
+      "text": "On opening day about 90,000 people crossed the footbridge, with up to 2,000 on it at once. It swayed sideways, and it was closed within days. Arup called the effect synchronous lateral excitation: people stepped in time with the sway, which made it grow. Later research suggests the balancing of each walker can also act as a negative damper.",
+      "why": "A crowd can push a bridge sideways in a way the design did not allow for.",
+      "box": "failure",
+      "sources": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "February 2002",
+      "era": "fail",
+      "art": "pendulum",
+      "title": "Dampers calm the Millennium Bridge",
+      "who": "Arup",
+      "where": "London, UK",
+      "country": "England",
+      "text": "After almost two years closed, the bridge reopened in February 2002 with 37 viscous fluid dampers and 52 tuned mass dampers. These soak up the energy of the sway instead of changing how the deck looks.",
+      "why": "Adding damping fixed the problem without making the bridge stiffer.",
+      "box": "failure",
+      "sources": [
+        40
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "16 December 2004",
+      "era": "span",
+      "art": "wind",
+      "title": "Millau Viaduct opens",
+      "who": "Michel Virlogeux and Norman Foster",
+      "where": "Millau, France",
+      "country": "France",
+      "text": "The Millau Viaduct is a multispan cable-stayed bridge 2,460 m long. Its tallest pylon reaches 343 m above the ground. Michel Virlogeux led the structural design, and Norman Foster was the architect.",
+      "why": "Cables fanning from tall masts let a slim deck cross a deep valley.",
+      "box": "cables",
+      "sources": [
+        41
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "2013",
+      "era": "arch",
+      "art": "reed",
+      "title": "Q'eswachaka: a grass bridge rebuilt every year",
+      "who": "Quechua communities of Huinchiri, Chaupibanda, Choccayhua and Ccollana Quehue",
+      "where": "Apurímac gorge, Peru",
+      "country": "Peru",
+      "text": "Each June, families twist grass into thin ropes, then braid them into larger ropes. They hang these over the Apurímac gorge to make a bridge about 28 m long. The renewal takes three days and uses traditional Inca methods. UNESCO listed the knowledge as intangible heritage in 2013.",
+      "why": "It shows a rope in tension carrying people, and a bridge kept alive by a community.",
+      "box": "cables",
+      "sources": [
+        42,
+        43
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "14 August 2018",
+      "era": "fail",
+      "art": "building",
+      "title": "The Morandi Bridge collapses in Genoa",
+      "who": "Riccardo Morandi's Polcevera Viaduct",
+      "where": "Genoa, Italy",
+      "country": "Italy",
+      "text": "A 210 m section of the viaduct fell during a rainstorm. Forty-three people died. Engineers linked the failure to corrosion of the steel inside the concrete, though blame is still argued. A new bridge opened on 3 August 2020.",
+      "why": "A bridge can look fine while hidden steel inside it is wearing away.",
+      "box": "failure",
+      "sources": [
+        44
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "18 March 2022",
+      "era": "span",
+      "art": "earth",
+      "key": true,
+      "title": "1915 Çanakkale Bridge passes 2,000 metres",
+      "who": "1915 Çanakkale Bridge team",
+      "where": "Çanakkale, Turkey",
+      "country": "Turkey",
+      "text": "The bridge opened on 18 March 2022 with a main span of 2,023 m, 32 m longer than Akashi Kaikyo. Its steel towers are 318 m tall, or up to 334 m with a decorative top. It is the longest suspension span in the world.",
+      "why": "It crosses the Dardanelles strait, and it is the first to pass two kilometres.",
+      "box": "cables",
+      "sources": [
+        45,
+        46
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest standing bridge in China, and widely called the oldest open-spandrel segmental stone arch",
+      "value": "c. 595–605 CE",
+      "who": "Li Chun, Zhaozhou Bridge, China"
+    },
+    {
+      "label": "First major cast iron bridge",
+      "value": "1779",
+      "who": "Thomas Farnolls Pritchard and Abraham Darby III, England"
+    },
+    {
+      "label": "Longest suspension bridge in the world when it opened",
+      "value": "1883",
+      "who": "Roebling family, Brooklyn Bridge, USA"
+    },
+    {
+      "label": "Longest single cantilever span, for 28 years until the Quebec Bridge",
+      "value": "1890",
+      "who": "Fowler and Baker, Forth Bridge, Scotland"
+    },
+    {
+      "label": "First US national bridge inspection standards",
+      "value": "1971",
+      "who": "US Federal Highway Administration"
+    },
+    {
+      "label": "First suspension span over 2,000 m",
+      "value": "2,023 m, 2022",
+      "who": "1915 Çanakkale Bridge, Turkey"
+    }
+  ],
+  "people": [
+    {
+      "name": "Li Chun",
+      "life": "",
+      "role": "Master mason",
+      "from": "China",
+      "note": "Credited with building the Zhaozhou Bridge in the Sui dynasty, though no records from the time describe the work."
+    },
+    {
+      "name": "Emily Warren Roebling",
+      "life": "1843 – 1903",
+      "role": "Engineer in all but name",
+      "from": "USA",
+      "note": "She relayed her disabled husband's instructions and helped supervise the Brooklyn Bridge, and she was the first person to cross it."
+    },
+    {
+      "name": "Washington Roebling",
+      "life": "1837 – 1926",
+      "role": "Chief engineer of the Brooklyn Bridge",
+      "from": "USA",
+      "note": "He was paralysed by caisson disease and could not supervise the Brooklyn Bridge on site."
+    },
+    {
+      "name": "Kaichi Watanabe",
+      "life": "",
+      "role": "Engineer",
+      "from": "Japan",
+      "note": "He was the seated 'human cantilever' in the famous Forth Bridge demonstration."
+    },
+    {
+      "name": "Abraham Darby III",
+      "life": "",
+      "role": "Ironmaster",
+      "from": "England",
+      "note": "He cast and built the Iron Bridge."
+    },
+    {
+      "name": "Charles Ellis",
+      "life": "1876 – 1949",
+      "role": "Structural engineer",
+      "from": "USA",
+      "note": "He did the design calculations for the Golden Gate Bridge, and the bridge district now credits him."
+    },
+    {
+      "name": "Frederick Farquharson",
+      "life": "",
+      "role": "University of Washington engineering professor",
+      "from": "USA",
+      "note": "He ran wind-tunnel tests on a model of the Tacoma Narrows Bridge in 1940."
+    },
+    {
+      "name": "Michel Virlogeux",
+      "life": "",
+      "role": "Structural engineer",
+      "from": "France",
+      "note": "He led the structural design of the Millau Viaduct."
+    }
+  ],
+  "series": [
+    {
+      "id": "span",
+      "title": "How long a suspension bridge main span could be",
+      "unit": "metres",
+      "log": false,
+      "after": "span",
+      "caption": "From Telford's chains to a span over two kilometres, mostly in steps set by record holders.",
+      "points": [
+        {
+          "year": 1826,
+          "value": 176,
+          "label": "Menai Bridge: 176 m (an early large span)"
+        },
+        {
+          "year": 1883,
+          "value": 486,
+          "label": "Brooklyn Bridge: 486 m, the longest of its day"
+        },
+        {
+          "year": 1931,
+          "value": 1067,
+          "label": "George Washington Bridge: 1,067 m (3,500 ft)"
+        },
+        {
+          "year": 1937,
+          "value": 1280,
+          "label": "Golden Gate Bridge: 1,280 m"
+        },
+        {
+          "year": 1964,
+          "value": 1298,
+          "label": "Verrazzano–Narrows Bridge: 1,298 m"
+        },
+        {
+          "year": 1998,
+          "value": 1991,
+          "label": "Akashi Kaikyo Bridge: 1,991 m"
+        },
+        {
+          "year": 2022,
+          "value": 2023,
+          "label": "1915 Çanakkale Bridge: 2,023 m"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Each main cable of the Brooklyn Bridge holds 5,282 galvanised steel wires, in 19 strands of 278 wires.",
+    "The Zhaozhou Bridge's main arch is made of 28 curved limestone slabs held together with iron dovetails.",
+    "The Tacoma Narrows Bridge failed in a wind of about 40 mph, only four months after it opened.",
+    "The Silver Bridge fell because of a small crack hidden inside the eye of one eyebar, and each chain link had only two eyebars.",
+    "The Pont du Gard was built largely without mortar, and some of its blocks weigh up to 6 tons."
+  ],
+  "sources": [
+    {
+      "title": "Pont du Gard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pont_du_Gard"
+    },
+    {
+      "title": "Zhaozhou Bridge",
+      "publisher": "American Society of Civil Engineers",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/zhaozhou-bridge"
+    },
+    {
+      "title": "Zhaozhou Bridge (Anji Bridge)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhaozhou_Bridge"
+    },
+    {
+      "title": "Pont Saint-Bénézet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pont_Saint-B%C3%A9n%C3%A9zet"
+    },
+    {
+      "title": "The Four Books of Architecture",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/I_quattro_libri_dell%27architettura"
+    },
+    {
+      "title": "Kintai Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kintai_Bridge"
+    },
+    {
+      "title": "Ironbridge Gorge",
+      "publisher": "National Trust",
+      "url": "https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/ironbridge-gorge"
+    },
+    {
+      "title": "The Iron Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Iron_Bridge"
+    },
+    {
+      "title": "Menai Suspension Bridge",
+      "publisher": "American Society of Civil Engineers",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/menai-suspension-bridge"
+    },
+    {
+      "title": "Menai Suspension Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Menai_Suspension_Bridge"
+    },
+    {
+      "title": "Truss bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Truss_bridge"
+    },
+    {
+      "title": "Pratt truss",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pratt_truss"
+    },
+    {
+      "title": "Warren truss",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Warren_truss"
+    },
+    {
+      "title": "Brooklyn Bridge",
+      "publisher": "American Society of Civil Engineers",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/brooklyn-bridge"
+    },
+    {
+      "title": "Brooklyn Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+    },
+    {
+      "title": "Eads Bridge",
+      "publisher": "American Society of Civil Engineers",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/eads-bridge"
+    },
+    {
+      "title": "Eads Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eads_Bridge"
+    },
+    {
+      "title": "Brooklyn Bridge",
+      "publisher": "NYC Department of Transportation",
+      "url": "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml"
+    },
+    {
+      "title": "Emily Warren Roebling",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/emily-warren-roebling/"
+    },
+    {
+      "title": "Forth Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Forth_Bridge"
+    },
+    {
+      "title": "Forth Bridge",
+      "publisher": "The Forth Bridges (Forth Bridges visitor site)",
+      "url": "https://www.theforthbridges.org/about-the-forth-bridges/forth-bridge/"
+    },
+    {
+      "title": "1890: The Royal Introduction of a Scottish Bridge",
+      "publisher": "Transportation History",
+      "url": "https://transportationhistory.org/2022/03/04/1890-the-royal-introduction-of-a-scottish-bridge/"
+    },
+    {
+      "title": "The Forth Bridge: history",
+      "publisher": "The Forth Bridges (Forth Bridges visitor site)",
+      "url": "https://www.theforthbridges.org/about-the-forth-bridges/forth-bridge/history/"
+    },
+    {
+      "title": "Prestressed concrete",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prestressed_concrete"
+    },
+    {
+      "title": "Key Dates in Bridge History",
+      "publisher": "Golden Gate Bridge, Highway and Transportation District",
+      "url": "https://www.goldengate.org/bridge/history-research/moments-events/key-dates/"
+    },
+    {
+      "title": "FAQs",
+      "publisher": "Golden Gate Bridge, Highway and Transportation District",
+      "url": "https://www.goldengate.org/bridge/history-research/statistics-data/faqs/"
+    },
+    {
+      "title": "Joseph Strauss",
+      "publisher": "Golden Gate Bridge, Highway and Transportation District",
+      "url": "https://www.goldengate.org/bridge/history-research/bridge-construction/joseph-strauss/"
+    },
+    {
+      "title": "Golden Gate Bridge",
+      "publisher": "American Society of Civil Engineers",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/golden-gate-bridge"
+    },
+    {
+      "title": "Charles Alton Ellis",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/charles-alton-ellis/"
+    },
+    {
+      "title": "Tacoma Narrows Bridge History",
+      "publisher": "Washington State Department of Transportation",
+      "url": "https://www.wsdot.wa.gov/tnbhistory/"
+    },
+    {
+      "title": "1940 Tacoma Narrows Bridge: Timeline",
+      "publisher": "Washington State Department of Transportation",
+      "url": "https://www.wsdot.wa.gov/tnbhistory/bridge-timeline.htm"
+    },
+    {
+      "title": "Tacoma Narrows Bridge collapse collection (Farquharson)",
+      "publisher": "University of Washington Libraries",
+      "url": "https://content.lib.washington.edu/farquharsonweb/"
+    },
+    {
+      "title": "Tacoma Narrows Bridge (1940)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)"
+    },
+    {
+      "title": "Verrazzano-Narrows Bridge",
+      "publisher": "Metropolitan Transportation Authority",
+      "url": "https://www.mta.info/agency/bridges-and-tunnels/verrazzano-narrows-bridge"
+    },
+    {
+      "title": "Silver Bridge",
+      "publisher": "West Virginia Department of Transportation",
+      "url": "https://transportation.wv.gov/silver-bridge"
+    },
+    {
+      "title": "Silver Bridge Failure 1967 (aka Point Pleasant Bridge)",
+      "publisher": "STRUCTURE magazine",
+      "url": "https://www.structuremag.org/article/silver-bridge-failure-1967-aka-point-pleasant-bridge/"
+    },
+    {
+      "title": "National Bridge Inspection Standards",
+      "publisher": "Federal Highway Administration",
+      "url": "https://www.fhwa.dot.gov/bridge/nbis.cfm"
+    },
+    {
+      "title": "Opening of the World's Largest Suspension Bridge",
+      "publisher": "EBSCO Research Starters",
+      "url": "https://www.ebsco.com/research-starters/history/opening-worlds-largest-suspension-bridge"
+    },
+    {
+      "title": "Akashi-Kaikyo Bridge",
+      "publisher": "Honshu-Shikoku Bridge Expressway Company",
+      "url": "https://www.jb-honshi.co.jp/english/bridgeworld/bridge.html"
+    },
+    {
+      "title": "Scientist solves first day wobbles for Millennium Bridge",
+      "publisher": "The Royal Society",
+      "url": "https://royalsociety.org/news/2009/millenium-bridge/"
+    },
+    {
+      "title": "Millennium Bridge, London",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Millennium_Bridge,_London"
+    },
+    {
+      "title": "Millau Viaduct",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Millau_Viaduct"
+    },
+    {
+      "title": "Knowledge, skills and rituals related to the annual renewal of the Q'eswachaka bridge",
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org/en/RL/knowledge-practices-and-rituals-associated-with-the-annual-renewal-of-the-q-eswachaka-bridge-00594"
+    },
+    {
+      "title": "Q'eswachaka",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Q%27eswachaka"
+    },
+    {
+      "title": "Ponte Morandi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ponte_Morandi"
+    },
+    {
+      "title": "Turkey Inaugurates the Landmark 1915 Çanakkale Bridge",
+      "publisher": "International Road Federation",
+      "url": "https://irfofficial.org/2022/04/27/turkey-inaugurates-landmark-1915-canakkale-bridge/"
+    },
+    {
+      "title": "1915 Çanakkale Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1915_%C3%87anakkale_Bridge"
+    }
+  ]
+}
